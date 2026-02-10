@@ -1,0 +1,8 @@
+{
+  "presence": true,
+  "interaction": false,
+  "update_cycle": null,
+  "core_access": "forbidden",
+  "meaning": "non-instrumental",
+  "timestamp": "static"
+}
