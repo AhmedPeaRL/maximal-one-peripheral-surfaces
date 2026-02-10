@@ -1,0 +1,8 @@
+{
+  "exchange": "permitted",
+  "extraction": "forbidden",
+  "pricing_logic": null,
+  "conversion_tracking": false,
+  "intent": "non-instrumental",
+  "status": "open_silence"
+}
